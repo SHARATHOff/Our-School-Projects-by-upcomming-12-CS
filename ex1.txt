@@ -1,0 +1,6 @@
+           computer is an electronic machine.                
+           python is a general purpose programming language.           
+computer is an electronic machine.
+             python is a general purpose programming language.
+           the collection of smallest individual units is also called as tokens.
+tokens are classified into keywords,identifiers,literals,operators,delimiters.
